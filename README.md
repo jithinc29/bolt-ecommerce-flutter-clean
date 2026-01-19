@@ -12,7 +12,17 @@ BOLT is a state-of-the-art Flutter e-commerce application built with **Clean Arc
 - **📱 Floating Dashboard**: An aesthetic, high-contrast floating bottom navigation bar with real-time cart badges.
 - **🔐 Secure Auth**: JWT-based authentication with `flutter_secure_storage` for persistent user sessions.
 
-## 🛠️ Tech Stack
+## � Visuals
+
+| Splash & Experience | Premium Login | Floating Dashboard |
+| :---: | :---: | :---: |
+| ![Splash](assets/images/splash.png) | ![Login](assets/images/login.png) | ![Dashboard](assets/images/dashboard.png) |
+
+| Product Exploration | Smart Shopping Cart | Secure Payment |
+| :---: | :---: | :---: |
+| ![Details](assets/images/details.png) | ![Cart](assets/images/cart.png) | ![Payment](assets/images/payment.png) |
+
+## �🛠️ Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/)
 - **State Management**: [Flutter Riverpod](https://riverpod.dev/)
