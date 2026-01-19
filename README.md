@@ -26,9 +26,10 @@ BOLT is a state-of-the-art Flutter e-commerce application built with **Clean Arc
 
 ### Prerequisites
 
-- Flutter SDK (latest version recommended)
-- Android Studio / VS Code
-- Git
+- **Flutter SDK**: `3.38.3` (Stable channel)
+- **Dart SDK**: `3.10.1`
+- **Android Studio / VS Code**
+- **Git**
 
 ### Installation
 
