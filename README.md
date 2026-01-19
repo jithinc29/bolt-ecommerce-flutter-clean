@@ -1,18 +1,30 @@
 # ⚡ BOLT - Premium E-Commerce App
 
-BOLT is a state-of-the-art Flutter e-commerce application built with **Clean Architecture** and a focus on **Cinematic UI/UX**. It provides a seamless shopping experience with real-time API integration, offline support through SQLite, and secure payment processing.
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-3.38.3-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.10.1-0175C2?style=for-the-badge&logo=dart)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+
+**A state-of-the-art Flutter e-commerce application built with Clean Architecture, Riverpod, and Cinematic UI/UX.**
+
+[Features](#-key-features) • [Visuals](#-visuals) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started)
+
+</div>
+
+---
 
 ## ✨ Key Features
 
 - **🎬 Cinematic UI/UX**: Custom-animated splash screens and glassmorphism-inspired minimalist login for a premium first impression.
 - **🏗️ Clean Architecture**: Highly maintainable and testable codebase divided into Data, Domain, and Presentation layers.
-- **🔋 Persistent State**: robust state management using **Riverpod**, ensuring real-time updates across the app.
+- **🔋 Persistent State**: Robust state management using **Riverpod**, ensuring real-time updates across the app.
 - **📦 Offline Storage**: Local data persistence using **SQLite** for smooth performance even without an active connection.
 - **💳 Payment Integration**: Fully functional **Razorpay** integration for secure and effortless checkouts.
 - **📱 Floating Dashboard**: An aesthetic, high-contrast floating bottom navigation bar with real-time cart badges.
 - **🔐 Secure Auth**: JWT-based authentication with `flutter_secure_storage` for persistent user sessions.
 
-## � Visuals
+## 📸 Visuals
 
 | Splash & Experience | Premium Login | Floating Dashboard |
 | :---: | :---: | :---: |
@@ -22,7 +34,7 @@ BOLT is a state-of-the-art Flutter e-commerce application built with **Clean Arc
 | :---: | :---: | :---: |
 | ![Details](assets/images/details.jpeg) | ![Cart](assets/images/cart.jpeg) | ![Payment](assets/images/payment.png) |
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/)
 - **State Management**: [Flutter Riverpod](https://riverpod.dev/)
@@ -96,10 +108,6 @@ The project follows a modular Clean Architecture pattern:
 ## 🤝 Contributing
 
 Contributions are welcome! Whether it's fixing a bug, improving documentation, or adding new features, your help is appreciated. Please read the [contributing guide](CONTRIBUTING.md) to get started.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
