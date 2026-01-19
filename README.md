@@ -95,7 +95,11 @@ The project follows a modular Clean Architecture pattern:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request if you have ideas to improve BOLT.
+Contributions are welcome! Whether it's fixing a bug, improving documentation, or adding new features, your help is appreciated. Please read the [contributing guide](CONTRIBUTING.md) to get started.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
